@@ -70,3 +70,12 @@ body {
   padding: 5px 10px;
   background-color: lightskyblue;
 }
+
+a {
+  color: #000;
+  text-decoration: none;
+}
+
+.selected {
+  font-weight: bold;
+}
